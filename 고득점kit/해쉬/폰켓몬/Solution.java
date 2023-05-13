@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/1845
 // Level 1
-class 폰켓몬 {
+class Solution {
 	public static int solution(int[] nums) {
 		// 선택할 수 있는 폰켓몬 개수
 		int pickedNum = nums.length / 2;
