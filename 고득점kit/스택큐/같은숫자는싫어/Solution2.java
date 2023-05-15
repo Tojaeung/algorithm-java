@@ -1,3 +1,5 @@
+package 고득점kit.스택큐.같은숫자는싫어;
+
 import java.util.ArrayList;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12906

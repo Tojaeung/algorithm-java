@@ -1,3 +1,5 @@
+package 고득점kit.스택큐.같은숫자는싫어;
+
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
 
