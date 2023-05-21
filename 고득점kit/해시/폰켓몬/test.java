@@ -1,4 +1,4 @@
-package 폰켓몬;
+package 고득점kit.해시.폰켓몬;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;

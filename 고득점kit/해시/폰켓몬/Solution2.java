@@ -1,4 +1,4 @@
-package 폰켓몬;
+package 고득점kit.해시.폰켓몬;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
